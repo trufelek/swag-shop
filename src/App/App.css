@@ -1,0 +1,14 @@
+.app-header {
+  background-color: pink;
+  min-height: 30vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.app-title {
+  color: darkgoldenrod;
+  font-weight: bolder;
+  text-transform: uppercase;
+}
